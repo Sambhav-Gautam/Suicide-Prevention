@@ -70,6 +70,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For support or inquiries, please contact [your-email@example.com](mailto:sambhavgautam6@gmail.com).
+For support or inquiries, please contact [sambhavgautam6@gmail.com](mailto:sambhavgautam6@gmail.com).
 
 This README provides a comprehensive overview of your project, clear installation and usage instructions, proper image credit, and a strong disclaimer to ensure users understand the purpose of the app. Adjust the content as needed for your project specifics and repository details.
